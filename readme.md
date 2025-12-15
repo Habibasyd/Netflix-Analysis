@@ -69,4 +69,4 @@ The primary DataFrame initially contained **7789 rows** and **11 columns**.
 * **Result:** **2520 records** matched this criteria.
 
 ---
-*Note: The Jupyter Notebook, `netflix_analysis (1).ipynb`, contains all the code and visual outputs (like the bar graphs and heatmap) that support these findings.*
+*Note: The Jupyter Notebook, `netflix_analysis.ipynb`, contains all the code and visual outputs (like the bar graphs and heatmap) that support these findings.*
